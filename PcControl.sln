@@ -1,8 +1,10 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCControl.Core", "PCControl.Core\PCControl.Core.csproj", "{E4D2C58F-08CC-F5C1-589A-3272544488B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCControl.API", "PCControl.API\PCControl.API.csproj", "{B8C4746E-4C87-4800-986C-34A42C386B89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{E4D2C58F-08CC-F5C1-589A-3272544488B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4D2C58F-08CC-F5C1-589A-3272544488B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4D2C58F-08CC-F5C1-589A-3272544488B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C4746E-4C87-4800-986C-34A42C386B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C4746E-4C87-4800-986C-34A42C386B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C4746E-4C87-4800-986C-34A42C386B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C4746E-4C87-4800-986C-34A42C386B89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
