@@ -8,6 +8,7 @@
 *.sln.docstates
 *.userprefs
 *.py
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
